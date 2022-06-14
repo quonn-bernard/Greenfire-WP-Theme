@@ -8,10 +8,10 @@
 
 
 ## About the Greenfire Theme:
-###### *Reponsive UI
+###### *Reponsive UI (mobile and desktop)
 ###### *Created with HTML5, CSS3, PHP, Vanilla JS & Bootstrap 5
 ###### *Collection of reusable template partials
-###### *Has mobile and desktop view
+###### *Downloadable resume pdf
 
 ## UI Views
 ### Mobile View
@@ -19,7 +19,6 @@
 
 ### Desktop View
 ![](https://i.imgur.com/iWTrgBr.png?2)
-
 
 ### Resume pdf downloader
 ![](https://i.imgur.com/xUoP7wv.png)
