@@ -24,5 +24,5 @@
 ### Resume pdf downloader
 ![](https://i.imgur.com/xUoP7wv.png)
 
-### Hover tool tips on website and resume download icons 
+### Tooltips on website and resume download icons 
 ![](https://i.imgur.com/qjO4uQi.png?1)
