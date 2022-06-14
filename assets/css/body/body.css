@@ -1,0 +1,21 @@
+.content-container {
+    display: flex;
+    height: calc( 100vh - 18vh);
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+@media( min-width: 993px ) {
+    .content-box .card-title {
+        font-size: 1.75rem;
+    }
+
+    .content-box .card-text {
+        font-size: 1.25rem;
+    }
+}
+
+
+
+

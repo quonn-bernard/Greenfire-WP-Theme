@@ -1,0 +1,9 @@
+.resume-modal__download-btn {
+    /* '!important' overrides bootstrap default styling */
+    background-color: var(--accent-color)!important;
+}
+
+.resume-modal__modal-body {
+    height: 650px;
+    overflow: scroll;
+}

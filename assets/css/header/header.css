@@ -1,0 +1,18 @@
+.site-nav {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    height: 10vh;
+    background-color: var(--base-color);
+}
+
+.site-nav__brand-logo {
+    text-decoration: none;
+}
+
+@media(min-width: 992px) {
+    .site-nav {
+        justify-content: flex-start;
+    }
+}

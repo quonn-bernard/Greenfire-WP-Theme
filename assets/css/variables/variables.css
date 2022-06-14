@@ -1,0 +1,11 @@
+:root {
+
+  /* Color Pallette */
+  --bg-color: #ffffff;
+  --base-color: #000000;  
+  --accent-color: #72BB44;
+
+  /* Typography */
+  --main-font: 'Rubik', sans-serif;
+  
+  }

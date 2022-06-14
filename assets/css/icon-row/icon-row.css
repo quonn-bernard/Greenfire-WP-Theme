@@ -1,0 +1,65 @@
+.contianer__icons-row {
+    width: 100%;
+}
+
+.contianer__icons-row  a, .contianer__icons-row  button  {
+    color: var(--base-color);
+}
+
+.contianer__icons-row i {
+    font-size: 1.25rem;
+}
+
+.contianer__icons-row ul, .footer__icon-row ul {
+    margin-left: 0;
+    padding-left: 0;
+    display: grid;
+    grid-template-columns: 25% 25% 25% 25%;
+    padding-bottom: 0;
+    margin-bottom: 0;
+}
+
+.icon-row-desktop ul {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.icon-row-desktop  a, .icon-row-desktop  button  {
+    color: var(--base-color);
+}
+
+.icon-row-desktop .icon-row__social-menu-item-link:hover {
+    color: var(--accent-color);
+}
+
+.icon-row__social-menu, .icon-row__social-menu-item {
+    display: inline;
+}
+
+.icon-row__social-menu-item-link {
+    color: var(--accent-color);
+    text-decoration: none;
+    font-size: 1.5rem;
+}
+
+.icon-row__social-menu-item-link:hover {
+    color: rgb(135, 167, 115);
+}
+
+.icon-row__social-menu-item-link:last-child {
+    border: 0;
+    background-color: transparent;
+}
+
+.footer__icon-row ul {
+    grid-template-columns: 14.285% 14.285% 14.285% 14.285% 14.285% 14.285% 14.285%;
+    max-width: 15rem;
+}
+
+
+@media( min-width: 992px ) {
+    .contianer__icons-row i {
+        font-size: 2rem;
+    }
+}    

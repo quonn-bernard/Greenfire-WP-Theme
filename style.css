@@ -1,0 +1,17 @@
+/*
+Theme Name: Greenfire
+Author: Quonn Bernard
+Description: Dev test for greenfire
+Version: 1.0
+Text Domain: greenfire
+
+*/
+
+html, body {
+    font-family: var(--main-font);
+    width: 100%;
+    height: 100%;
+    overflow: hidden;
+    display: flex;
+    flex-direction: column;
+}
