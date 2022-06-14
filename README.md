@@ -8,7 +8,7 @@
 
 
 ## About the Greenfire Theme:
-###### *Reponsive UI (mobile and desktop)
+###### *Reponsive UI (optimized for both mobile and desktop browsers)
 ###### *Created with HTML5, CSS3, PHP, Vanilla JS & Bootstrap 5
 ###### *Collection of reusable template partials
 ###### *Downloadable resume pdf
@@ -22,3 +22,6 @@
 
 ### Resume pdf downloader
 ![](https://i.imgur.com/xUoP7wv.png)
+
+### Hover tool tips on resume download and website icon
+![](https://i.imgur.com/qjO4uQi.png?1)
