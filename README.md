@@ -12,6 +12,7 @@
 ###### *Created with HTML5, CSS3, PHP, Vanilla JS & Bootstrap 5
 ###### *Collection of reusable template partials
 ###### *Downloadable resume pdf
+###### *Tooltips on website icon (1st) and resume download (last). 
 
 ## UI Views
 ### Mobile View
@@ -23,5 +24,5 @@
 ### Resume pdf downloader
 ![](https://i.imgur.com/xUoP7wv.png)
 
-### Hover tool tips on resume download and website icon
+### Hover tool tips on website and resume download icons 
 ![](https://i.imgur.com/qjO4uQi.png?1)
